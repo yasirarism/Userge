@@ -42,4 +42,3 @@ wget
 wikipedia
 youtube_dl>=2021.1.8
 youtube-search-python
-apscheduler
